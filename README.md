@@ -1,3 +1,3 @@
 # testweb
 
-homepage link is https://dc-hong.github.io/WCDLpage/
+homepage link is https://dc-hong.github.io/testpage/
